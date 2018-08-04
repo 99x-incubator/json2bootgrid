@@ -36,4 +36,6 @@ window.onload = () => {
 
 #### Output
 
+<img src='sample.jpg'>
+
 
