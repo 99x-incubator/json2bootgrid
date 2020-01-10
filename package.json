@@ -1,5 +1,11 @@
 {
-  "devDependencies": {
-    "prettier": "1.19.1"
-  }
+  "name": "prettier-package-json",
+  "version": "1.19.1",
+  "main": "demo/index.js",
+  "files": [
+    "demo/index.js",
+    "src/json2bootgrid.js",
+    "README.md",
+    "readme.md"
+  ]
 }
