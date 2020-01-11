@@ -2,6 +2,8 @@
 
 Covert json to bootstrap grid with color, width and content
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [Blog post](https://medium.com/@shalithasuranga/writing-a-json-to-bootstrap-grid-parser-using-recursion-dafea39ce6cf)
 
 ### Usage
