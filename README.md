@@ -36,4 +36,6 @@ Convert JSON to Bootstrap Grid with color, width and content
 
 <img src='sample.jpg'>
 
+### License
 
+Distributed under the MIT [License](https://github.com/99xt-incubator/json2bootgrid/blob/master/LICENSE). 
