@@ -1,6 +1,6 @@
 # json2bootgrid
 
-Covert json to bootstrap grid with color, width and content
+Convert json to bootstrap grid with color, width and content
 
 [Blog post](https://medium.com/@shalithasuranga/writing-a-json-to-bootstrap-grid-parser-using-recursion-dafea39ce6cf)
 
