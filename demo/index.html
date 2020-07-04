@@ -10,6 +10,8 @@
 
 <body>
   <div id="app"></div>
+  <br/>
+  <div id="app2"></div>
   <script src="../src/json2bootgrid.js"></script>
   <script>
     window.onload = () => {
@@ -26,12 +28,40 @@
                 text: 'col 2',
                 width: 6,
                 color: 'yellow'
-              }
+              },
             ]
           }
         ]
       }
       document.getElementById('app').innerHTML = json2bootgrid(a);
+    }
+  </script>
+  <script>
+    window.onload = () => {
+      let b = {
+        rows: [
+          {
+            columns: [
+              {
+                text: 'col 1',
+                width: 4,
+                color: 'green'
+              },
+              {
+                text: 'col 2',
+                width: 4,
+                color: 'yellow'
+              },
+              {
+                text: 'col 3',
+                width: 4,
+                color:'red'
+              }
+            ]
+          }
+        ]
+      }
+      document.getElementById('app2').innerHTML = json2bootgrid(b);
     }
   </script>
 </body>
